@@ -1,0 +1,17 @@
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\bin\MCD\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\bin\MCD\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\bin\MCD\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\bin\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.deps.json
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\bin\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.runtimeconfig.json
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\bin\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.runtimeconfig.dev.json
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\bin\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.dll
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\bin\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.pdb
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\bin\MCD\Debug\netcoreapp2.2\Ordenamiento.dll
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\bin\MCD\Debug\netcoreapp2.2\Ordenamiento.pdb
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\obj\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csprojAssemblyReference.cache
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\obj\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csproj.CoreCompileInputs.cache
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\obj\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.AssemblyInfoInputs.cache
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\obj\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.AssemblyInfo.cs
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\obj\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csproj.CopyComplete
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\obj\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.dll
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento.Pruebas\obj\MCD\Debug\netcoreapp2.2\Ordenamiento.Pruebas.pdb

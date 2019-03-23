@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\enriq_000\\tdd-EnriqueEstradaPalomares\\Ordenamiento\\Ordenamiento.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

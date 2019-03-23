@@ -1,0 +1,9 @@
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento\bin\MCD\Debug\netstandard2.0\Ordenamiento.deps.json
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento\bin\MCD\Debug\netstandard2.0\Ordenamiento.dll
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento\bin\MCD\Debug\netstandard2.0\Ordenamiento.pdb
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento\obj\MCD\Debug\netstandard2.0\Ordenamiento.csprojAssemblyReference.cache
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento\obj\MCD\Debug\netstandard2.0\Ordenamiento.csproj.CoreCompileInputs.cache
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento\obj\MCD\Debug\netstandard2.0\Ordenamiento.AssemblyInfoInputs.cache
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento\obj\MCD\Debug\netstandard2.0\Ordenamiento.AssemblyInfo.cs
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento\obj\MCD\Debug\netstandard2.0\Ordenamiento.dll
+c:\Users\enriq_000\tdd-EnriqueEstradaPalomares\Ordenamiento\obj\MCD\Debug\netstandard2.0\Ordenamiento.pdb
